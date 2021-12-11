@@ -2,7 +2,7 @@
 
 My name is Alexander, and I'm a teamlead at SberMarket.
 
-I'm currently working on build a PaaS platform for launching microservices in production with shortes TTM as possible.
+I'm currently working on building a PaaS platform for launching microservices in production with shortes TTM as possible.
 
 What else?
 - Made [Lefthook](https://github.com/Arkweid/lefthook) githooks automation tool written in Golang. Raised it to [>1,5k](https://twitter.com/evilmartians_ru/status/1253267933226242050) stars on Github. My blog post about it [here](https://evilmartians.com/chronicles/lefthook-knock-your-teams-code-back-into-shape).
