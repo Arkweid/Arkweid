@@ -11,4 +11,4 @@ What else?
 - Won [Stellar Community Fund](https://medium.com/stellar-community/stellar-community-fund-2-the-results-69b3f6a6040e) with my implementation of blockchain node written in Rust - [Astrocore](https://github.com/astroband/astrocore). Some brief introduction [here](https://galactictalk.org/d/2102-astrocore-rusted-stellar-core).
 - Got _The Arctic Code Vault_ achivement as an opensource enthusiast. For contribution in Rust ecosystem, Ruby gems and projects.
 
-... and much more.
+...and much more.
