@@ -13,4 +13,4 @@ What else?
 - Got _The Arctic Code Vault_ achivement as an opensource enthusiast. For contribution in Rust ecosystem, Ruby gems and projects.
 - Public speaker [Agile vs Waterfall](https://youtu.be/D5x96DymfGc?si=IWZIf4VS_cChiiUb)
 
-...and much more.
+And much more at https://arkweid.github.io
